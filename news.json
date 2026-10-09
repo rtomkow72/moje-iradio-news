@@ -1,1 +1,9 @@
-{ "wiadomosci": [ ] }
+{
+  "wiadomosci": [
+    {
+      "id": "202610090001",
+      "tytul": "Pierwsza wiadomość z Windows",
+      "tresc": "Wiadomość dodana bezpośrednio przez GitHub z komputera Windows 11."
+    }
+  ]
+}
