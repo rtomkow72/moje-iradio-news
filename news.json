@@ -1,9 +1,1 @@
-{
-  "wiadomosci": [
-    {
-      "id": "202610090001",
-      "tytul": "Pierwsza wiadomość z Windows",
-      "tresc": "Wiadomość dodana bezpośrednio przez GitHub z komputera Windows 11."
-    }
-  ]
-}
+{ "wiadomosci": [ { "id": "cb21e161-ad88-4bc9-ab06-619b9b17e5e4", "tytul": "drufa test z telefonu", "tresc": "druga test z telefonu", "imageUrl": "images/upload.XXkGilGN.jpg" } ] }
