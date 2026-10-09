@@ -1,2 +1,3 @@
-{ "wiadomosci": [ { "id": "cb21e161-ad88-4bc9-ab06-619b9b17e5e4", "tytul": "drufa test z telefonu", "tresc": "druga test z telefonu", "imageUrl": "images/upload.XXkGilGN.jpg" } ] },
-[ { "id": "7d91b842-3c65-4f18-9a27-8e56c20d14bf", "tytul": "Wielka Sowa", "tresc": "Pozdrowienia z Wielkiej Sowy!", "imageUrl": "images/wielka_sowa.jpg" } ] }
+
+{ "wiadomosci": [ { "id": "cb21e161-ad88-4bc9-ab06-619b9b17e5e4", "tytul": "wiadomości, ciekawostki, komunikaty", "tresc": "Wiadomości, alerty, komunikaty, wydarzenia, info turystyczne", "imageUrl": "images/upload.XXkGilGN.jpg" },
+{ "id": "7d91b842-3c65-4f18-9a27-8e56c20d14bf", "tytul": "Wielka Sowa", "tresc": "Pozdrowienia z Wielkiej Sowy!", "imageUrl": "images/wielka_sowa.jpg" } ] }
